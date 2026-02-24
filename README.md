@@ -101,10 +101,9 @@ GPA: 7.66/10
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshayjayesh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayjayesh&show_icons=true&theme=default)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayjayesh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayjayesh&layout=compact)
 
 ## 📫 Connect With Me
 
